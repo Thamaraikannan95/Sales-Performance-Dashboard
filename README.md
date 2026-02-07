@@ -82,6 +82,8 @@ Units = SUM(Sales[Quantity])
 
 See dashboard image below.
 
+![Dashboard Preview](images/Sales-Performance-Dashboard.PNG)
+
 ---
 
 🚀 How to Use
