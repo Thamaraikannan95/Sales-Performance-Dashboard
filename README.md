@@ -88,7 +88,7 @@ See dashboard image below.
 
 🚀 How to Use
 
- - Download the .pbix file
+ - Download the Sales-Performance-Dashboard.pbix file
  - Open in Power BI Desktop
  - Use slicers to explore insights
 
